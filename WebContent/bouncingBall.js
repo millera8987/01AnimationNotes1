@@ -44,7 +44,7 @@ function create() {
    		console.log("Hello World" + i);
 	}
     
-   document.getElementById("output").innerHTML = "Paragraph changed!";
+   //document.getElementById("output").innerHTML = "Paragraph changed!";
     //game.physics.enable(image, Phaser.Physics.ARCADE);
 
     //image.body.velocity.x=150;
